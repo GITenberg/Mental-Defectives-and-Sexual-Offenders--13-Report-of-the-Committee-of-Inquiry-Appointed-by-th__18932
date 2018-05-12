@@ -1,0 +1,33 @@
+_repo: Mental-Defectives-and-Sexual-Offenders--13-Report-of-the-Committee-of-Inquiry-Appointed-by-th__18932
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: New Zealand. Committee of Inquiry into Mental Defectives and Sexual
+      Offenders
+    gutenberg_agent_id: '8341'
+    url: http://www.gutenberg.org/2009/agents/8341
+description: ''
+gutenberg_bookshelf:
+- Medicine
+- New Zealand
+gutenberg_issued: '2006-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'People with mental disabilities -- Care -- New Zealand'
+- !lcsh 'Mental health laws -- New Zealand'
+- !lcsh 'Sex offenders -- Legal status, laws, etc. -- New Zealand'
+- !lcsh 'People with mental disabilities -- Legal status, laws, etc. -- New Zealand'
+- !lcc 'RA'
+- !lcsh 'Sterilization (Birth control) -- New Zealand'
+title: "Mental Defectives and Sexual Offenders\r\nReport of the Committee of Inquiry\
+  \ Appointed by the Hon. Sir Maui Pomare, K.B.E., C.M.G., Minister of Health"
+url: http://www.gutenberg.org/ebooks/18932
