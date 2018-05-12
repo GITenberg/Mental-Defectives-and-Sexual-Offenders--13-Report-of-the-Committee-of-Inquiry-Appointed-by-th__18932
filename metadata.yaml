@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8341'
     url: http://www.gutenberg.org/2009/agents/8341
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18932#Mental-Defectives-and-Sexual-Offenders--13-Report-of-the-Committee-of-Inquiry-Appointed-by-th_
 gutenberg_bookshelf:
 - Medicine
 - New Zealand
